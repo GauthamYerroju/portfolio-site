@@ -1,0 +1,13 @@
+#copyright {
+  margin: 0 16px;
+  color: RGB(160, 160, 160);
+}
+
+.force-full-width {
+  max-width: 100%;
+  padding: 0 16px;
+}
+
+.force-full-width-for-real {
+  max-width: 100%;
+}
