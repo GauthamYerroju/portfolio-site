@@ -1,5 +1,4 @@
-# portfolio-site
-## Retired
+# portfolio-site (RETIRED)
 
 Source code for my old portfolio website built on Foundation, now retired.
 
